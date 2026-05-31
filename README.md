@@ -39,17 +39,17 @@
 	https://github.com/Amir-Othmani00/gt-step-localization
 	https://github.com/amir-othmani/HiERO
 	
-	1.2 Actionformer Version
-  Github:
+1.2 Actionformer Version
+  	Github:
 	https://github.com/T-Larm/aml_multi_step_localization/tree/egovlp
   
 2.Simple Task-Verification baselines
 	Drive:
 	https://drive.google.com/drive/folders/1h3aaqyj8echLDSWGgBblCpsxENuQR67V
 	Colab: 
-  https://colab.research.google.com/drive/15UmTUmZIVl3c1FhoGdzsQB4rEtDAgw9q#scrollTo=9ba97c6a
-  Github: 
-  https://github.com/AML-Project-3-Mistake-Detection/aml-2025-mistake-detection-gp.git
+  	https://colab.research.google.com/drive/15UmTUmZIVl3c1FhoGdzsQB4rEtDAgw9q#scrollTo=9ba97c6a
+  	Github: 
+  	https://github.com/AML-Project-3-Mistake-Detection/aml-2025-mistake-detection-gp.git
 	
 3.Task-Graph encoding + Step matching
 	Drive:
